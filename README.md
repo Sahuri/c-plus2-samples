@@ -1,4 +1,4 @@
-# samples-c-
+# c++ samples
 C++ simply
 
 You need :
